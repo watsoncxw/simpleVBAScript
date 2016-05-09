@@ -1,5 +1,8 @@
 sub doStuff()
 
-modified-doStuff1
+doStuff1
+
+'make a small change to doStuff1
+doStuff1 = doStuff1 + 1
 
 end
