@@ -2,4 +2,13 @@ sub doStuff()
 
 doStuff1
 
+doSomething(doStuff1)
+
 end
+
+function doSomething(x as integer) as stuff
+
+doSomething
+
+
+end 
